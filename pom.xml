@@ -9,7 +9,7 @@
 		<version>2.3.0.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.poc.groovy.testing</groupId>
+	<groupId>com.thash.spock.demo</groupId>
 	<artifactId>Spoke-Groovy-Test</artifactId>
 	<version>0.0.1</version>
 	<name>Spoke-Groovy-Test</name>
@@ -74,7 +74,7 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.20</version>
 				<configuration>
-					<groups>com.poc.groovy.testing.UnitTest</groups>
+					<groups>com.thash.spock.demo.UnitTest</groups>
 					<includes>
 						<include>**/*Spec.java</include>
 					</includes>

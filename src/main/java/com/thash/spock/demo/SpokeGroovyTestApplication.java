@@ -1,4 +1,4 @@
-package com.poc.groovy.testing;
+package com.thash.spock.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

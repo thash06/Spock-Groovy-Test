@@ -1,4 +1,4 @@
-package com.poc.groovy.testing
+package com.thash.spock.demo
 
 import org.junit.experimental.categories.Category
 import org.springframework.beans.factory.annotation.Autowired
